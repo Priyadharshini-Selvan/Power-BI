@@ -193,7 +193,7 @@ Ranking Development Color =
 The report was then published to Power BI Service.
 
 ## Dashboard Snapshot
-![Dashboard Snapshot](https://github.com/Priyadharshini-Selvan/Power-BI/blob/main/superstore.png)
+![Dashboard Snapshot](https://github.com/Priyadharshini-Selvan/Power-BI/Project/blob/main/superstore.png)
 
 
 ### Key Points
