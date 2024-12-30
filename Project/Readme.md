@@ -194,7 +194,7 @@ Ranking Development Color =
 ### Report Publishing
 The report was then published to Power BI Service.
 
-![Alt Text](C:\Users\PriyaSelvan\Pictures\Screenshots\superstore)
+![Dashboard Snapshot](C:\Users\PriyaSelvan\Pictures\Screenshots\superstore.png)
 
 
 ### Key Points
