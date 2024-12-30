@@ -189,12 +189,11 @@ Ranking Development Color =
     Color
 ```
 
----
-
 ### Report Publishing
 The report was then published to Power BI Service.
 
-![Dashboard Snapshot](Screenshots\superstore.png)
+## Dashboard Snapshot
+![Dashboard Snapshot](https://github.com/Priyadharshini-Selvan/Power-BI/blob/main/superstore.png)
 
 
 ### Key Points
